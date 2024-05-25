@@ -7,5 +7,8 @@ public class Runner {
         System.out.println("git add . : staging areaya alir.");
 
 
+        //versiyon 4
+        System.out.println("hi");
+
     }
 }
